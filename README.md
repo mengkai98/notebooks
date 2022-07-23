@@ -3,5 +3,5 @@
 
 [1.1 struct与class的区别](./c++/struct与class的区别.md)
 
-[1.2 struct与class的区别](./c++/c++static、const、constexpr限定符.md)
+[1.2 c++static、const、constexpr限定符](./c++/c++static、const、constexpr限定符.md)
 
