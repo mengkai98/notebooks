@@ -1,0 +1,1 @@
+add_executable(static_const_constexpr_exec ./static_const_constexpr/static_const_constexpr.cpp)

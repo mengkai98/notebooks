@@ -1,0 +1,5 @@
+CMAKE_MINIMUM_REQUIRED (VERSION 2.8)
+PROJECT("note_book")
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_STANDARD 14)
+add_subdirectory(./c++/example)
